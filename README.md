@@ -18,7 +18,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Dashboard 
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300">
+  <img src="https://app.powerbi.com/view?r=eyJrIjoiNmI4ZGEyNTItOTQ5ZS00M2ZmLWJkMGQtYzFlY2FlM2QxYWJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
 </p>
 
 ## Major Insights 
