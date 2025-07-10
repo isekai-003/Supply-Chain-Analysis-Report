@@ -12,7 +12,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Data Model 
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400">
+  <img src="https://github.com/isekai-003/Supply-Chain-Analysis-Report/blob/0acb0937aac46fd3bfbf91d9491d050607818091/Data%20Modelling.png">
 </p>
 
 ## Dashboard 
