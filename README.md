@@ -15,11 +15,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
   <img src="https://github.com/isekai-003/Supply-Chain-Analysis-Report/blob/0acb0937aac46fd3bfbf91d9491d050607818091/Data%20Modelling.png">
 </p>
 
-## Dashboard 
-
-<p align="center">
-  <img src="https://app.powerbi.com/view?r=eyJrIjoiNmI4ZGEyNTItOTQ5ZS00M2ZmLWJkMGQtYzFlY2FlM2QxYWJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
-</p>
+**Interactive Dashoard Link**  [click here](https://app.powerbi.com/view?r=eyJrIjoiNmI4ZGEyNTItOTQ5ZS00M2ZmLWJkMGQtYzFlY2FlM2QxYWJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Major Insights 
 
